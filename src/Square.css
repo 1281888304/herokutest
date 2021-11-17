@@ -1,0 +1,18 @@
+#square {
+    color: purple;
+
+    height: 100px;
+    width: 100px;
+}
+
+.purpleBorder {
+    border: 1px solid purple;
+}
+
+.blueBorder {
+    border: 1px solid blue;
+}
+
+.blackBorder {
+    border: 1px solid black;
+}
